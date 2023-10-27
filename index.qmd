@@ -7,16 +7,20 @@ about:
   image: img/yewon-kang-photo.jpeg
   links:
     # Available icons: https://icons.getbootstrap.com/
+    - icon: envelope-fill
+      text: Email
+      href: mailto:kang0504@umn.edu
     - icon: twitter
       text: twitter
       href: https://twitter.com/iamyewonkang
-    - icon: github
-      text: Github
-      href: https://github.com/yewonkang
     - icon: linkedin
       text: LinkedIn
       href: https://linkedin.com/kangyewon
+    #- text: "{{< ai cv >}} CV"
+      #href: https://linkedin.com/kangyewon
 ---
 
-Iggy is the Chief Beggar at Three Bark Manor. When not innovating naptime, Iggy enjoys dinner.
+I am a 2nd year PhD student in Educational Psychology at the University of Minnesota.
+
+[Reading + Learning Lab](https://edpsych.umn.edu/research/labs/reading-learning)
 

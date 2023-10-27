@@ -2,19 +2,26 @@
 title: "About"
 ---
 
-My full name is Ignatius Fauci Fortenberry, III. Mostly I go by Iggy (except when I am in trouble). I am a 2-year old schnauzer/black lab mix. I live with my sister (Sadie) and my brother (Hank). I love to eat, sleep, and walk. My favorite people are: anyone with treats, the postal delivery person, the Amazon delivery person, the UPS delivery person, and Goldy. In my spare time I enjoy pulling the stuffing out of toys and dribbling water all over the house.
+Hi! My name is Yewon Kang. I am a 2nd year PhD student in Educational Psychology at the University of Minnesota. My research focuses on learning, memory, and source credibility.
 
 ## Education
 
-Puppy Kindergarten Level 2, [Pet Smart](https://www.petsmart.com/) | Richfield, MN
-Certificate in Walking | Oct. 2021
+🎓 **PhD in Educational Psychology**, University of Minnesota, Minneapolis, MN (2022 - Present)
 
-Puppy Kindergarten Level 1, [Pet Smart](https://www.petsmart.com/) | Richfield, MN
-Certificate in Listening | Sept. 2021
+Advisor: Panayiota Kendeou
 
+🎓 **MA in Education**, Yonsei University, Seoul, Republic of Korea (2022)
 
-## References
+Advisor: Hee Seung Lee
 
-Hank | Chief Barking Scientist | Three Bark Manor
+🎓 **BA in Education**, Yonsei University, Seoul, Republic of Korea (2020)
 
-[Sadie](https://sadie-dog.netlify.app/) | Naptime Engineer | Three Bark Manor
+👩🏻‍🏫 Elementary Teaching Certificate, Republic of Korea (2018)
+
+## Publications
+
+Kang, Y., Ha, H., & Lee, H. S. (2023). When more is not better: Effects of interim testing and feature highlighting in natural category learning. *Educational Psychology Review*, *35*, Article 51.
+
+Kang, Y., & Lee, H. S. (2022). Teachers' metacognitive awareness and use of empirically-supported teaching strategies. *The Korean Journal of Educational Psychology*, *36*(3), 303-327.
+
+Ha, H., Kim. S., Kang. Y., & Lee, H. S. (2021). Metacognitive awareness and use of effective learning strategies in concept and category learning. *The Korean Journal of Educational Psychology*, *35*(1), 1-25.
