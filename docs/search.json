@@ -4,21 +4,21 @@
     "href": "index.html",
     "title": "Yewon Kang",
     "section": "",
-    "text": "I am a 2nd year PhD student in Educational Psychology at the University of Minnesota.\nReading + Learning Lab"
+    "text": "PhD Student | Reading + Learning Lab\nEducational Psychology | University of Minnesota"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "Hi! My name is Yewon Kang. I am a 2nd year PhD student in Educational Psychology at the University of Minnesota. My research focuses on learning, memory, and source credibility."
+    "text": "Hi! I am a 2nd year PhD student in Educational Psychology at the University of Minnesota. My research focuses on cognitive processes related to learning, memory, and source credibility and their applications in education. I am currently working in the Reading + Learning Lab, advised by Dr. Panayiota Kendeou. I also serve as the Instructional Technology Fellow for the School of Social Work, assisting instructors in making effective use of educational technology tools and resources."
   },
   {
     "objectID": "about.html#education",
     "href": "about.html#education",
     "title": "About",
-    "section": "Education",
-    "text": "Education\n🎓 PhD in Educational Psychology, University of Minnesota, Minneapolis, MN (2022 - Present)\nAdvisor: Panayiota Kendeou\n🎓 MA in Education, Yonsei University, Seoul, Republic of Korea (2022)\nAdvisor: Hee Seung Lee\n🎓 BA in Education, Yonsei University, Seoul, Republic of Korea (2020)\n👩🏻‍🏫 Elementary Teaching Certificate, Republic of Korea (2018)"
+    "section": "🎓 Education",
+    "text": "🎓 Education\nPhD in Educational Psychology (2022 – Present), University of Minnesota, Minneapolis, MN\nMA in Education (2022), Yonsei University, Seoul, Republic of Korea\nBA in Education (2020), Yonsei University, Seoul, Republic of Korea\nElementary Teaching Certificate, Republic of Korea (2018)"
   },
   {
     "objectID": "about.html#references",
@@ -31,7 +31,14 @@
     "objectID": "about.html#publications",
     "href": "about.html#publications",
     "title": "About",
-    "section": "Publications",
-    "text": "Publications\nKang, Y., Ha, H., & Lee, H. S. (2023). When more is not better: Effects of interim testing and feature highlighting in natural category learning. Educational Psychology Review, 35, Article 51.\nKang, Y., & Lee, H. S. (2022). Teachers’ metacognitive awareness and use of empirically-supported teaching strategies. The Korean Journal of Educational Psychology, 36(3), 303-327.\nHa, H., Kim. S., Kang. Y., & Lee, H. S. (2021). Metacognitive awareness and use of effective learning strategies in concept and category learning. The Korean Journal of Educational Psychology, 35(1), 1-25."
+    "section": "📜 Publications",
+    "text": "📜 Publications\nKang, Y., Ha, H., & Lee, H. S. (2023). When more is not better: Effects of interim testing and feature highlighting in natural category learning. Educational Psychology Review, 35, Article 51.\nKang, Y., & Lee, H. S. (2022). Teachers’ metacognitive awareness and use of empirically-supported teaching strategies. The Korean Journal of Educational Psychology, 36(3), 303-327.\nHa, H., Kim. S., Kang. Y., & Lee, H. S. (2021). Metacognitive awareness and use of effective learning strategies in concept and category learning. The Korean Journal of Educational Psychology, 35(1), 1-25."
+  },
+  {
+    "objectID": "about.html#service",
+    "href": "about.html#service",
+    "title": "About",
+    "section": "💁 Service",
+    "text": "💁 Service\nGlobal Gopher Leader (2023 – Present), UMN International Student and Scholar Services \nDirector of Finance (2023 – Present), UMN CEHD International Student Community \nGrants Review Committee (2022), UMN Council of Graduate Students"
   }
 ]

@@ -2,26 +2,30 @@
 title: "About"
 ---
 
-Hi! My name is Yewon Kang. I am a 2nd year PhD student in Educational Psychology at the University of Minnesota. My research focuses on learning, memory, and source credibility.
+Hi! I am a 2nd year PhD student in Educational Psychology at the University of Minnesota. My research focuses on cognitive processes related to **learning**, **memory**, and **source credibility** and their **applications in education**. I am currently working in the [Reading + Learning Lab](https://edpsych.umn.edu/research/labs/reading-learning), advised by Dr. Panayiota Kendeou. I also serve as the [Instructional Technology Fellow](https://academics.cehd.umn.edu/digital-education/yewon-kang/) for the School of Social Work, assisting instructors in making effective use of educational technology tools and resources.
 
-## Education
+## 🎓 Education
 
-🎓 **PhD in Educational Psychology**, University of Minnesota, Minneapolis, MN (2022 - Present)
+**PhD in Educational Psychology** (2022 -- Present), University of Minnesota, Minneapolis, MN
 
-Advisor: Panayiota Kendeou
+**MA in Education** (2022), Yonsei University, Seoul, Republic of Korea
 
-🎓 **MA in Education**, Yonsei University, Seoul, Republic of Korea (2022)
+**BA in Education** (2020), Yonsei University, Seoul, Republic of Korea
 
-Advisor: Hee Seung Lee
+**Elementary Teaching Certificate**, Republic of Korea (2018)
 
-🎓 **BA in Education**, Yonsei University, Seoul, Republic of Korea (2020)
+## 📜 Publications
 
-👩🏻‍🏫 Elementary Teaching Certificate, Republic of Korea (2018)
+**Kang, Y.**, Ha, H., & Lee, H. S. (2023). When more is not better: Effects of interim testing and feature highlighting in natural category learning. *Educational Psychology Review*, *35*, Article 51.
 
-## Publications
+**Kang, Y.**, & Lee, H. S. (2022). Teachers' metacognitive awareness and use of empirically-supported teaching strategies. *The Korean Journal of Educational Psychology*, *36*(3), 303-327.
 
-Kang, Y., Ha, H., & Lee, H. S. (2023). When more is not better: Effects of interim testing and feature highlighting in natural category learning. *Educational Psychology Review*, *35*, Article 51.
+Ha, H., Kim. S., **Kang. Y.**, & Lee, H. S. (2021). Metacognitive awareness and use of effective learning strategies in concept and category learning. *The Korean Journal of Educational Psychology*, *35*(1), 1-25.
 
-Kang, Y., & Lee, H. S. (2022). Teachers' metacognitive awareness and use of empirically-supported teaching strategies. *The Korean Journal of Educational Psychology*, *36*(3), 303-327.
+## 💁 Service
 
-Ha, H., Kim. S., Kang. Y., & Lee, H. S. (2021). Metacognitive awareness and use of effective learning strategies in concept and category learning. *The Korean Journal of Educational Psychology*, *35*(1), 1-25.
+**Global Gopher Leader** (2023 -- Present), UMN International Student and Scholar Services 
+
+**Director of Finance** (2023 -- Present), UMN CEHD International Student Community 
+
+**Grants Review Committee** (2022), UMN Council of Graduate Students

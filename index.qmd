@@ -11,16 +11,19 @@ about:
       text: Email
       href: mailto:kang0504@umn.edu
     - icon: twitter
-      text: twitter
+      text: Twitter
       href: https://twitter.com/iamyewonkang
     - icon: linkedin
       text: LinkedIn
       href: https://linkedin.com/kangyewon
     #- text: "{{< ai cv >}} CV"
       #href: https://linkedin.com/kangyewon
+editor: 
+  markdown: 
+    wrap: 72
 ---
 
-I am a 2nd year PhD student in Educational Psychology at the University of Minnesota.
+PhD Student \| [Reading + Learning
+Lab](https://edpsych.umn.edu/research/labs/reading-learning)
 
-[Reading + Learning Lab](https://edpsych.umn.edu/research/labs/reading-learning)
-
+Educational Psychology \| University of Minnesota
