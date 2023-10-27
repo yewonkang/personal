@@ -1,21 +1,21 @@
 ---
-title: "Iggy"
+title: "Yewon Kang"
 about:
   # Templates include: jolla, trestles, solana, marquee, or broadside
   # https://quarto.org/docs/websites/website-about.html
   template: jolla
-  image: img/iggy.jpg
+  image: img/yewon-kang-photo.jpeg
   links:
     # Available icons: https://icons.getbootstrap.com/
     - icon: twitter
       text: twitter
-      href: https://twitter.com
+      href: https://twitter.com/iamyewonkang
     - icon: github
       text: Github
-      href: https://github.com
+      href: https://github.com/yewonkang
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: https://linkedin.com/kangyewon
 ---
 
 Iggy is the Chief Beggar at Three Bark Manor. When not innovating naptime, Iggy enjoys dinner.
