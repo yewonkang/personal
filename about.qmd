@@ -2,11 +2,13 @@
 title: "About"
 ---
 
-Hi! My name is Yewon (pronounced Yeah-Won) Kang. I am a 2nd year PhD student in Educational Psychology at the University of Minnesota. My research focuses on cognitive processes related to **learning** and **memory** and their **applications in education**. I am currently working in the [Reading + Learning Lab](https://edpsych.umn.edu/research/labs/reading-learning), advised by Dr. Panayiota Kendeou. I also serve as the [Instructional Technology Fellow](https://academics.cehd.umn.edu/digital-education/yewon-kang/) for the School of Social Work, assisting instructors in making effective use of educational technology tools and resources.
+Hi! My name is Yewon (pronounced Yeah-Won) Kang. I am a 4th year PhD student in Educational Psychology at the University of Minnesota. My research focuses on cognitive processes related to **learning** and **memory** and their **applications in education**. I am currently working in the [Reading + Learning Lab](https://edpsych.umn.edu/research/labs/reading-learning), advised by Dr. Panayiota Kendeou. I also serve as the [Instructional Technology Fellow](https://academics.cehd.umn.edu/digital-education/yewon-kang/) for the School of Social Work, assisting instructors in making effective use of educational technology tools and resources.
 
 ## 🎓 Education
 
 **PhD in Educational Psychology** (2022 -- Present), University of Minnesota, Minneapolis, MN
+
+**MA in Educational Psychology** (2024), University of Minnesota, Minneapolis, MN
 
 **MA in Education** (2022), Yonsei University, Seoul, Republic of Korea
 
